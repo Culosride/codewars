@@ -9,3 +9,5 @@ function guessGifts(wishlist, presents) {
   })
   return gifts = [...new Set(gifts)];
 }
+
+//  https://www.codewars.com/kata/52ae6b6623b443d9090002c8/javascript
