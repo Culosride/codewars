@@ -21,6 +21,9 @@ Valid parenthesis
 Array difference
   https://www.codewars.com/kata/523f5d21c841566fde000009
 
+Count characters in your string
+  https://www.codewars.com/kata/52efefcbcdf57161d4000091
+
 Equal sides of an array
   https://www.codewars.com/kata/5679aa472b8f57fb8c000047
 
