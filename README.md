@@ -2,6 +2,8 @@
 
 ------------------------------- 5 kyu -------------------------------
 
+
+
 Guess the gifts!
   https://www.codewars.com/kata/52ae6b6623b443d9090002c8/javascript
 
@@ -10,6 +12,9 @@ Is my friend cheating?
 
 Rot13
   https://www.codewars.com/kata/530e15517bc88ac656000716
+
+String incrementer
+  https://www.codewars.com/kata/54a91a4883a7de5d7800009c/javascript
 
 Valid parenthesis
   https://www.codewars.com/kata/52774a314c2333f0a7000688
