@@ -10,6 +10,9 @@ Guess the gifts!
 Is my friend cheating?
   https://www.codewars.com/kata/5547cc7dcad755e480000004
 
+Regex Password Validation
+  https://www.codewars.com/kata/52e1476c8147a7547a000811
+
 Rot13
   https://www.codewars.com/kata/530e15517bc88ac656000716
 
@@ -19,7 +22,8 @@ String incrementer
 Valid parenthesis
   https://www.codewars.com/kata/52774a314c2333f0a7000688
 
-
+Where my anagrams at?
+  https://www.codewars.com/kata/523a86aa4230ebb5420001e1/javascript
 
 ------------------------------- 6 kyu -------------------------------
 

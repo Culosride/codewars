@@ -1,0 +1,13 @@
+function anagrams(word, words) {
+  const result = []
+  word = word.split("").sort((a, b) => a < b ? -1 : 1).join("")
+  words.forEach(wo => {
+    newWord = wo.split("").sort((a, b) => a < b ? -1 : 1).join("")
+    if(newWord === word) {
+      result.push(wo)
+    }
+  })
+  return result
+}
+
+// https://www.codewars.com/kata/523a86aa4230ebb5420001e1/javascript
